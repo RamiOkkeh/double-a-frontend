@@ -1,0 +1,13 @@
+.big {
+  height: 44vh;
+}
+.item {
+  font-size: 10vh;
+  display: flex;
+  border: 1px white solid;
+  width: 33vw;
+  height: 100%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}

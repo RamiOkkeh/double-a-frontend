@@ -6,9 +6,11 @@ nav a span {
   margin: 10px;
   border: white solid 1px;
 }
-
+.bar {
+  background-color: rgb(35, 31, 32);
+}
 .nav-logo {
   width: 300px;
-  height: 100px;
+  height: 11.7vh;
   background-color: red;
 }
