@@ -1,0 +1,12 @@
+.flip {
+  width: 33vw;
+  height: 44vh;
+}
+.flipinfo {
+  display: flex;
+  font-size: 10vh;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
